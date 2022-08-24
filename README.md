@@ -19,12 +19,12 @@
 
 ## Installation :
 ```
-pip install ttbot
+pip install tambotapi
 ```
 ### Logan Usage
 
 ``` python
-from ttbot import *
+import tambotapi 
 
 ## Follow us on social media
 [![Github](https://img.shields.io/badge/Github-NovaTools-orange?style=for-the-badge&logo=github)](https://github.com/NovaTools4/)
